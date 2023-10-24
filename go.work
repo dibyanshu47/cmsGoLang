@@ -3,5 +3,6 @@ go 1.21.3
 use (
 	./cru-service
 	./d-service
+	./fixture-service
 	./gateway
 )
